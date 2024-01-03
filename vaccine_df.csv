@@ -1,0 +1,36 @@
+V_Id,Name,Storage_Temperature,Manufacturer,Dosage,C_Id
+100001,COVID-19 Vaccine,-1°C,Pfizer,2,1011
+100002,Flu Vaccine,0°C,Johnson & Johnson,1,1012
+100003,Hepatitis Vaccine,1°C,Merck,1,1013
+100004,COVID-19 Vaccine,2°C,Novartis,2,1004
+100005,Tetanus Vaccine,3°C,Roche,2,1005
+100006,Chicken Pox Vaccine,4°C,GlaxoSmithKline,1,1006
+100007,COVID-19 Vaccine,5°C,AstraZeneca,1,1007
+100008,Hepatitis Vaccine,-1°C,Sanofi,2,1018
+100009,Flu Vaccine,0°C,Eli Lilly,1,1009
+100010,COVID-19 Vaccine,1°C,Abbott Laboratories,2,1010
+100011,Chicken Pox Vaccine,2°C,Bristol-Myers Squibb,2,1011
+100012,Flu Vaccine,3°C,Gilead Sciences,1,1012
+100013,Tetanus Vaccine,4°C,Amgen,1,1013
+100014,COVID-19 Vaccine,5°C,Biogen,2,1014
+100015,Hepatitis Vaccine,-1°C,Genentech,2,1015
+100016,Flu Vaccine,0°C,Mylan,1,1016
+100017,COVID-19 Vaccine,1°C,Teva Pharmaceuticals,1,1017
+100018,Tetanus Vaccine,2°C,Pfizer,2,1008
+100019,Flu Vaccine,3°C,Johnson & Johnson,1,1019
+100020,COVID-19 Vaccine,4°C,Merck,2,1021
+100021,Chicken Pox Vaccine,5°C,Novartis,2,1021
+100022,Hepatitis Vaccine,-1°C,Roche,1,1022
+100023,Tetanus Vaccine,0°C,GlaxoSmithKline,1,1023
+100024,Flu Vaccine,1°C,AstraZeneca,2,1024
+100025,COVID-19 Vaccine,2°C,Sanofi,1,1025
+100026,Hepatitis Vaccine,3°C,Eli Lilly,2,1026
+100027,COVID-19 Vaccine,4°C,Abbott Laboratories,2,1017
+100028,Tetanus Vaccine,5°C,Bristol-Myers Squibb,1,1028
+100029,Flu Vaccine,-1°C,Gilead Sciences,1,1029
+100030,Chicken Pox Vaccine,0°C,Amgen,2,1030
+100031,COVID-19 Vaccine,1°C,Biogen,2,1011
+100032,Tetanus Vaccine,2°C,Genentech,1,1022
+100033,Flu Vaccine,3°C,Mylan,1,1023
+100034,Chicken Pox Vaccine,4°C,Teva Pharmaceuticals,2,1014
+100035,Hepatitis Vaccine,5°C,Pfizer,2,1014
